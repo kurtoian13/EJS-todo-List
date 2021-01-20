@@ -5,6 +5,9 @@ Download or clone
 
 Run npm install 
 
+Then run  node app.js or nodemon app.js
+
+
 open on http://localhost:3000/
 
 Add styling to fit your project 
